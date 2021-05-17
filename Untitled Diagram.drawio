@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T16:20:05.875Z" agent="5.0 (Windows)" etag="2dNDvd2kS8wcMrutgygs" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T16:28:22.949Z" agent="5.0 (Windows)" etag="KsbCDZn7P-DJzj5VKxws" version="14.6.12" type="github">
   <diagram id="w8AZza_P0M58mkH-UdBX" name="Page-1">
     <mxGraphModel dx="1038" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pNq3XGUt6hoDzNaR-TGL-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="250" y="30" width="480" height="480" as="geometry" />
+          <mxGeometry x="120" y="30" width="610" height="610" as="geometry" />
         </mxCell>
         <mxCell id="pNq3XGUt6hoDzNaR-TGL-10" value="Patient" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="370" width="30" height="60" as="geometry" />
+          <mxGeometry x="50" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pNq3XGUt6hoDzNaR-TGL-11" value="System boundary" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="490" width="120" height="20" as="geometry" />
+          <mxGeometry x="120" y="620" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pNq3XGUt6hoDzNaR-TGL-12" value="Give the surveries to users" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pNq3XGUt6hoDzNaR-TGL-12" value="Give a survey to users" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="110" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pNq3XGUt6hoDzNaR-TGL-14" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNq3XGUt6hoDzNaR-TGL-10" target="pNq3XGUt6hoDzNaR-TGL-12">
@@ -28,8 +28,8 @@
         <mxCell id="pNq3XGUt6hoDzNaR-TGL-18" value="Welcome Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="60" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pNq3XGUt6hoDzNaR-TGL-19" value="Doing prefer small exercises based on the results" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="240" width="165" height="50" as="geometry" />
+        <mxCell id="pNq3XGUt6hoDzNaR-TGL-19" value="Doing prefer small exercises based on the survey&#39;s results" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="240" width="232.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pNq3XGUt6hoDzNaR-TGL-20" value="Watch the video tutorial of suggesting exercirses " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="170" width="230" height="60" as="geometry" />
@@ -47,19 +47,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pNq3XGUt6hoDzNaR-TGL-23" value="Give feedback of completing the exercises " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="290" width="239" height="60" as="geometry" />
+          <mxGeometry x="324" y="300" width="239" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pNq3XGUt6hoDzNaR-TGL-24" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNq3XGUt6hoDzNaR-TGL-10" target="pNq3XGUt6hoDzNaR-TGL-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="370" as="sourcePoint" />
             <mxPoint x="450" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="360" />
+              <mxPoint x="210" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pNq3XGUt6hoDzNaR-TGL-25" value="Data collection for statics use" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="420" width="242.5" height="60" as="geometry" />
+          <mxGeometry x="324" y="430" width="242.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pNq3XGUt6hoDzNaR-TGL-26" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNq3XGUt6hoDzNaR-TGL-17" target="pNq3XGUt6hoDzNaR-TGL-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -68,12 +68,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pNq3XGUt6hoDzNaR-TGL-27" value="Asking for the permission for data collection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="350" width="260" height="60" as="geometry" />
+          <mxGeometry x="324" y="370" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pNq3XGUt6hoDzNaR-TGL-30" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNq3XGUt6hoDzNaR-TGL-10" target="pNq3XGUt6hoDzNaR-TGL-27">
+        <mxCell id="pNq3XGUt6hoDzNaR-TGL-30" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pNq3XGUt6hoDzNaR-TGL-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="426" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNq3XGUt6hoDzNaR-TGL-35" value="Remote Debug Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="500" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNq3XGUt6hoDzNaR-TGL-36" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNq3XGUt6hoDzNaR-TGL-17" target="pNq3XGUt6hoDzNaR-TGL-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="370" as="sourcePoint" />
             <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNq3XGUt6hoDzNaR-TGL-37" value="Obtain Some Basic Data Diagrams from daily exercises" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="570" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNq3XGUt6hoDzNaR-TGL-38" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNq3XGUt6hoDzNaR-TGL-10" target="pNq3XGUt6hoDzNaR-TGL-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
